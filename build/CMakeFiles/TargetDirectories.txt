@@ -1,0 +1,3 @@
+/Users/dmitrij/projects/fs/build/CMakeFiles/fs.dir
+/Users/dmitrij/projects/fs/build/CMakeFiles/edit_cache.dir
+/Users/dmitrij/projects/fs/build/CMakeFiles/rebuild_cache.dir
