@@ -9,7 +9,7 @@ void FileManager::scan_directory() {
     const fs::path path = fs::current_path();
 
     if (!fs::exists(path) || fs::is_empty(path)) {
-        std::cout << "Текущая директория пуста или не существует.\n";
+        std::cout << "Текущая директория пуста или не существует\n";
         return;
     }
 
