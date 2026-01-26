@@ -27,4 +27,3 @@ void FileManager::scan_directory() {
         }
     }
 }
-
