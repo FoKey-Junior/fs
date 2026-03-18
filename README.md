@@ -1,4 +1,4 @@
-<div align="center" style="width: 750px; margin: 0 auto;">
+<div align="center" style="max-width: 750px; margin: 0 auto;">
 
 # Замена стандартной команды LS
 
