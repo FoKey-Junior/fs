@@ -1,10 +1,13 @@
-# FS
+<div align="center" style="width: 750px; margin: 0 auto;">
 
-Утилита для отображения содержимого каталогов с цветовой подсветкой по типам и показом размеров файлов — современная замена `ls`
+# Замена стандартной команды LS
+
+FS - Утилита для отображения содержимого каталогов с цветовой подсветкой по типам и показом размеров файлов - современная замена `ls`
 Идея вдохновлена **[bat](https://github.com/sharkdp/bat)**: как он дополняет `cat`, так FS дополняет `ls`
 
-Реализовано на **C++17** (`std::filesystem`)  
-Сборка через **CMake**
+[![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
+[![CMake](https://img.shields.io/badge/CMake-3.25+-orange.svg)](https://cmake.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
