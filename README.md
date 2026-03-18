@@ -10,7 +10,7 @@
 
 **Сравнение с `ls`:**
 
-<img src="https://github.com/FoKey-Junior/fs/blob/fc2e7c0d8019d1352f075918f18230f9a4546ace/assets/demonstration.png?raw=true" alt="FS demonstration">
+<img width="1680" height="628" alt="Image" src="https://github.com/user-attachments/assets/62a51544-eab8-42dc-baa0-98a888106399" />
 
 FS удобен при работе с большим количеством файлов и вложенных директорий
 Сразу видно типы файлов по иконкам и размеры в человекочитаемом формате
